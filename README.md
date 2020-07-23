@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to visit 👋
 
 <!--
 **softlgl/softlgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Blogs:(yi念之间)[https://www.cnblogs.com/wucy/]
+- Emails📧:ruanjian_liang@126.com
+
 [![softlgl's github stats](https://github-readme-stats.vercel.app/api?username=softlgl)](https://github.com/softlgl/github-readme-stats)
