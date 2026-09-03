@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](images/stats.svg)
-![Top Languages](images/top-langs.svg)
+[![softlgl's github stats](https://github-readme-stats.shion.dev/api?username=softlgl)](https://github.com/softlgl/github-readme-stats)
 ![](https://raw.githubusercontent.com/softlgl/softlgl/output/github-contribution-grid-snake-dark.svg)
